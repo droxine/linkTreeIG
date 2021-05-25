@@ -75,3 +75,7 @@ a:hover {
 .dark {
   background: var(--darkblue-color);
 }
+
+.extradark {
+  background: var(--dark-color);
+}
