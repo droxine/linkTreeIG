@@ -72,6 +72,12 @@ a:hover {
   text-shadow: 0 0 2em var(--highlight-color);
 }
 
+.icon-list-img {
+  height: 50px;
+  width: 50px;
+  margin: 3px;
+}
+
 .dark {
   background: var(--darkblue-color);
 }
