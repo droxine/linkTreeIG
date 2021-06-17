@@ -1,8 +1,8 @@
 :root {
-  --main-color: #8da9c4;
-  --dark-color: #0B2545;
+  --main-color: #91B2EB;
+  --dark-color: #134074;
   --highlight-color: #EEF4ED;
-  --darkblue-color: #134074;
+  --darkblue-color: #EEF4ED;
 }
 
 body {
@@ -79,7 +79,7 @@ a:hover {
 }
 
 .dark {
-  background: var(--darkblue-color);
+  background: var(--dark-color);
 }
 
 .extradark {
